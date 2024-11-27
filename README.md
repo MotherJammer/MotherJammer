@@ -3,7 +3,7 @@
 
 
 
-Hi! I'm actually working on my undergraduate thesis applied in emotion classification using facial recognition. Even though I'm able to work full-stack, I really love the UX of a software. So designing interfaces or applications with Affective Computing are my thing.
+Hi! I'm focused on building a career as a QA engineer, and I'm passionate about working on software UX. I also have experience in agile project management and image processing.
 
 
 Wanna talk? feel free to contact me 😌  
