@@ -7,7 +7,7 @@ Hi! I'm focused on building a career as a QA engineer, and I'm passionate about 
 
 
 Wanna talk? feel free to contact me 😌  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-villalobos-b968881a5/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel.villalobos.m@icloud.com)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-villalobos-b968881a5/)
 <p align="center">
   <img src="https://pa1.aminoapps.com/7443/1dbf12d6999e9c25a8f696899f8f0ae63cb9b2f0r1-500-281_hq.gif" alt="BMO Gif"/>
 </p>
