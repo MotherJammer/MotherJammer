@@ -1,5 +1,5 @@
 
-### "If you can think it, you can make it"
+### "Everything that drowned me taught me how to swim.
 
 
 
