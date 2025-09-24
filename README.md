@@ -5,6 +5,8 @@
 
 Hi! I'm focused on building a career as a QA engineer, and I'm passionate about working on software UX. I also have experience in agile project management and image processing.
 
+**Check out my portfolio!** https://www.motherjammer.dev
+
 
 Wanna talk? feel free to contact me 😌  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-villalobos-b968881a5/)
